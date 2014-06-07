@@ -1,0 +1,46 @@
+@import url(//fonts.googleapis.com/css?family=Arimo:700);
+
+body {
+	margin:0;
+	font-family:'Arimo', sans-serif;
+	color: #FFF;
+	background: url(https://s3.amazonaws.com/ooomf-com-files/9FybtVFNSEOxogGzIvHJ_IMG_2226.jpg) no-repeat center center fixed; 
+  	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  }
+
+header {
+	display: block;
+	margin-left: 30px;
+}
+
+
+footer {
+	margin-left: 30px;
+}
+
+article {
+	margin-left: 30px;
+	font-size: 15px;
+}
+
+ul,ol,li {
+	list-style:none;
+}
+
+a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 35px;
+}
+
+#map {
+	height: 400px;
+	width: 50%;
+	margin-left: 25%;
+}
