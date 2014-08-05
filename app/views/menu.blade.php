@@ -1,1 +1,0 @@
-<p><a href="#">About</a> | <a href="#">Work</a> | <a href="#">Contact</a></p>
