@@ -3,6 +3,6 @@
 @section('body')
 	@include('header')
 	@include('menu')
-    <article>Hello</article>
+    <p>Hi! I'm Dan the developer.</p>
     @include('footer')
 @stop
