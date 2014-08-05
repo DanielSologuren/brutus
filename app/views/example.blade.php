@@ -3,6 +3,8 @@
 @section('body')
 	@include('header')
 	@include('menu')
-    <p>Hi! I'm Dan the developer.</p>
+	<div class="content">
+		<p>Hi! I'm Dan the developer.</p>
+    </div>
     @include('footer')
 @stop

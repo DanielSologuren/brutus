@@ -39,6 +39,10 @@ h1 {
 	font-size: 35px;
 }
 
+#content {
+	margin-left: 30px;
+}
+
 #map {
 	height: 400px;
 	width: 50%;
