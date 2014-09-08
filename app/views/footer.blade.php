@@ -1,5 +1,5 @@
 <footer>
 	<p>
-		<small>Twitter - @dansologuren</small>
+		<small>Follow me: <a href="https://twitter.com/dansologuren">@dansologuren</a></small>
 	</p>
 </footer>
