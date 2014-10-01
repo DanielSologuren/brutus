@@ -20,3 +20,18 @@ Route::get('map', function()
 {
     return View::make('map');
 });
+
+Route::get('blog', function()
+{
+    return View::make('blog');
+});
+
+Route::get('work', function()
+{
+    return View::make('work');
+});
+
+Route::get('contact', function()
+{
+    return View::make('contact');
+});
