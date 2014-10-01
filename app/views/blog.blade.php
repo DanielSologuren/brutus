@@ -5,7 +5,9 @@
 	@include('menu')
 
 <article>
-	Hey! I'm picking this up from my old blog (http://huascar.us)
+	<h1>Hello World  - Pt.2 </h1>
+	<small>Oct 1. 2014</small>
+	<p>This is my new site. I've been holding off on launching this.</p>
 </article>
 
 
