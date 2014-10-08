@@ -91,6 +91,11 @@ a:hover {
   }
 }
 
+
+/* ------------------------------------------
+  DEMO STYLES
+--------------------------------------------- */
+
 body {
   -webkit-text-size-adjust: 100%;
   -ms-text-size-adjust: 100%;
@@ -123,6 +128,7 @@ p {
   color:#FFF;
 }
 
+
 /* ------------------------------------------
   FIXED HEADER
 --------------------------------------------- */
@@ -145,6 +151,8 @@ header {
   color: #fff;
   float: left;
 }
+
+
 /* ------------------------------------------
   MASK
 --------------------------------------------- */
@@ -270,11 +278,11 @@ header {
 
 @font-face {
   font-family: "responsivenav";
-  src:url("../images/icons/responsivenav.eot");
-  src:url("../images/icons/responsivenav.eot?#iefix") format("embedded-opentype"),
-    url("../images/icons/responsivenav.ttf") format("truetype"),
-    url("../images/icons/responsivenav.woff") format("woff"),
-    url("../images/icons/responsivenav.svg#responsivenav") format("svg");
+  src:url("../icons/responsivenav.eot");
+  src:url("../icons/responsivenav.eot?#iefix") format("embedded-opentype"),
+    url("../icons/responsivenav.ttf") format("truetype"),
+    url("../icons/responsivenav.woff") format("woff"),
+    url("../icons/responsivenav.svg#responsivenav") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -309,6 +317,3 @@ header {
   font-size: 24px;
   content: "\78"; /* Close icon */
 }
-
-
-
