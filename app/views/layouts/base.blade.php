@@ -5,6 +5,7 @@
     <title></title>
     @section('head')
     <link rel="stylesheet" href="{{asset('css/main.css')}}">
+    <script src="js/responsive-nav.js"></script>
     @show
 </head>
 <body>
