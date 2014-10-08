@@ -276,11 +276,11 @@ header {
 
 @font-face {
   font-family: "responsivenav";
-  src:url("../images/responsivenav.eot");
-  src:url("../images/responsivenav.eot?#iefix") format("embedded-opentype"),
-    url("../images/responsivenav.ttf") format("truetype"),
-    url("../images/responsivenav.woff") format("woff"),
-    url("../images/responsivenav.svg#responsivenav") format("svg");
+  src:url("/icons/responsivenav.eot");
+  src:url("/icons/responsivenav.eot?#iefix") format("embedded-opentype"),
+    url("/icons/responsivenav.ttf") format("truetype"),
+    url("/icons/responsivenav.woff") format("woff"),
+    url("/icons/responsivenav.svg#responsivenav") format("svg");
   font-weight: normal;
   font-style: normal;
 }
