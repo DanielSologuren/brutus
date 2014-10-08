@@ -2,7 +2,6 @@
 
 @section('body')
 	@include('header')
-	@include('menu')
 	<section>
       <h1>Hey!</h1>
       <p>I'm Dan</p>
