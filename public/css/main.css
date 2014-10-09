@@ -101,10 +101,11 @@ body {
   color: #37302a;
   background: #fff;
   background-image: url('../images/image2.jpg');
+  background-size: cover;
   background-repeat:no-repeat;
-  background-size:cover;
   font: normal 100%/1.4 sans-serif;
   font-family: 'Hind', sans-serif;
+  width: 100%;
 }
 
 section {
