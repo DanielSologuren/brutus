@@ -32,6 +32,16 @@ a:hover {
 @-o-viewport { width: device-width; }
 @viewport { width: device-width; }
 
+html { 
+  background: url('../images/image2.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+
 
 /* ------------------------------------------
   RESPONSIVE NAV STYLES
@@ -100,9 +110,9 @@ body {
   text-size-adjust: 100%;
   color: #37302a;
   background: #fff;
-  background-image: url('../images/image2.jpg');
+  /*background-image: url('../images/image2.jpg');
   background-size: 1024px;
-  background-repeat:no-repeat;
+  background-repeat:no-repeat;*/
   font: normal 100%/1.4 sans-serif;
   font-family: 'Hind', sans-serif;
   width: 100%;
