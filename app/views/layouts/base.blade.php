@@ -5,6 +5,7 @@
     <title></title>
     @section('head')
     <link rel="stylesheet" href="{{asset('css/main.css')}}">
+    <link rel="shortcut icon" href="favicon.ico">
     <script src="js/responsive-nav.js"></script>
     <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
