@@ -117,8 +117,10 @@ body {
 }
 
 section {
-  padding: 100px 0 0 12px;
+  padding: 100px 0 0 ;
   width: 100%;
+  text-align: center;
+  line-height: 2;
 }
 
 h1 {
