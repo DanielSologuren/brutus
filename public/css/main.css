@@ -185,7 +185,8 @@ header {
 
 .js-nav-active .mask {
   visibility: visible;
-  opacity: 1;
+  opacity:1;
+  background-color: #1D1D1D;
 }
 
 @media screen and (min-width: 40em) {
@@ -302,6 +303,7 @@ header {
   width: 60px;
   height: 55px;
   float: right;
+
 }
 
 .nav-toggle:before {
@@ -316,7 +318,7 @@ header {
   width: 100%;
   left: 0;
   top: 0;
-  background-color: #1D1D1D;
+
 }
 
 .nav-toggle.active:before {
