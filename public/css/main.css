@@ -135,15 +135,15 @@ p {
   color:#FFF;
 }
 
-.home {
+#home {
   height: 800px;
 }
 
-.about {
+#about {
   height: 800px;
 }
 
-.projects {
+#projects {
   height: 800px;
 }
 
