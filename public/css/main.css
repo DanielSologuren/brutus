@@ -141,8 +141,7 @@ header {
   width: 100%;
   left: 0;
   top: 0;
-  border-style: solid;
-    border-bottom: thick dotted #FFF;
+  border-bottom:outset #FFF;
 }
 
 .logo {
