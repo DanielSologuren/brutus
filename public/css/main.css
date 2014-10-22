@@ -67,6 +67,7 @@ html {
   display: block;
   overflow: hidden;
   zoom: 1;
+
 }
 
 .nav-collapse.opened {
@@ -315,6 +316,7 @@ header {
   width: 100%;
   left: 0;
   top: 0;
+  background-color: #1D1D1D;
 }
 
 .nav-toggle.active:before {
