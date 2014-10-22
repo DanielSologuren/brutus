@@ -115,11 +115,8 @@ body {
 }
 
 section {
-  border-bottom: 1px solid #999;
   padding: 100px 0 0 12px;
-  height: 800px;
   width: 100%;
-  background-color: rgba(5, 5, 5, 0.42);
 }
 
 h1 {
@@ -144,8 +141,8 @@ header {
   width: 100%;
   left: 0;
   top: 0;
+  border-style: outset;
   border-bottom-color: rgb(240, 248, 255);
-  border-bottom-style: outset;
 }
 
 .logo {
