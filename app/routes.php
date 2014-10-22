@@ -16,9 +16,9 @@ Route::get('/', function()
 	return View::make('example');
 });
 
-Route::get('map', function()
+Route::get('about', function()
 {
-    return View::make('map');
+    return View::make('about');
 });
 
 Route::get('work', function()
@@ -29,4 +29,14 @@ Route::get('work', function()
 Route::get('contact', function()
 {
     return View::make('contact');
+});
+
+// ======= 404 page ======
+
+
+App::missing(function($exception)
+{
+	// shows an error page (app/views/error.blade.php)
+	// returns a page not found error
+	return Responsive::view('error',array(), 404);
 });
