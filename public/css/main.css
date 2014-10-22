@@ -33,7 +33,7 @@ a:hover {
 @viewport { width: device-width; }
 
 html { 
-  background: url('../images/image2.jpg') no-repeat center center fixed; 
+  background: url('../images/fuzz.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -226,7 +226,7 @@ header {
 
 @media screen and (min-width: 40em) {
   .nav-collapse {
-    float: left;
+    float: right;
     width: auto;
   }
 }
@@ -244,9 +244,7 @@ header {
 
 .nav-collapse a {
   -webkit-tap-highlight-color: rgba(0,0,0,0);
-  border-top: 1px solid white;
   text-decoration: none;
-  background-color: rgba(88, 91, 92, 0.57);
   padding: 0.7em 1em;
   color: #fff;
   width: 100%;
