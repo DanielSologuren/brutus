@@ -139,12 +139,13 @@ p {
 --------------------------------------------- */
 
 header {
-  background-color: rgba(88, 91, 92, 0.57);
   position: fixed;
   z-index: 3;
   width: 100%;
   left: 0;
   top: 0;
+  border-bottom-color: rgb(240, 248, 255);
+  border-bottom-style: outset;
 }
 
 .logo {
