@@ -147,7 +147,7 @@ header {
   left: 0;
   top: 0;
   border-bottom:outset #FFF;
-  letter-spacing: 4px;
+  letter-spacing: 2px;
 }
 
 .logo {
@@ -155,7 +155,7 @@ header {
   text-decoration: none;
   font-weight: 300;
   line-height: 55px;
-  padding: 0 20px;
+  padding: 0 18px;
   color: #fff;
   float: left;
   font-size: 25px;
