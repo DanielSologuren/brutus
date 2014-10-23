@@ -136,10 +136,11 @@ h2 {
 
 h3 {
   color:#FFF;
+  font-weight: 300;
 }
 
 a {
-  color: #0060B6;
+  color: #C8E5FF;
   text-decoration: none;
 }
 
@@ -151,9 +152,11 @@ a:hover
 }
 
 p {
-  width: 90%;
+  width: 27%;
   margin: 0 auto;
-  color:#FFF;
+  color:#F4F4F4;
+  text-align: left;
+  font-size: 17px;
 }
 
 /* ------------------------------------------
