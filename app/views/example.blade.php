@@ -5,9 +5,10 @@
 
     <section id="home">
       <h1>Hello!</h1>
-      <p>I'm a dev based out in the DC area.</p>
-      <p>I dove into development in 2009 and started working on Drupal in 2010.</p>
-      <p>Since then, I've worked on many Federal .gov projects from scope to deployment.</p>
+      <p>My name is Dan.<p>
+      <p>I'm a DC based developer that builds with anything I can get my hands on.</p>
+      <p>My primary focus is finding solutions to all web realted things.</p>
+
     </section>
 
     @include('footer')
