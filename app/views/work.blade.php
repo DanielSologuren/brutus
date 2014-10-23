@@ -6,18 +6,22 @@
 
 	<section id="work">
 		<h1>Work</h1>
-		<p><a href="http://www.ice.gov/detention-facilities" target="_blank">http://www.ice.gov</a></p>
-		<ul>
-			<li>Developed a sitewide mapping solution for <a href="http://www.ice.gov/contact/field-offices" target="_blank">ICE field offices</a> and <a href="http://www.ice.gov/detention-facilities" target="_blank">Detention Facility locator</a>.
-			</li>
-		</ul>
-		<p>http://www.fns.usda.gov</p>
-		<ul>
-			<li></li>
-		</ul>
-		<p>http://whatscooking.fns.usda.gov</p>
-		<p>http://www.ftc.gov</p>
-		<ul><li>Built prelimiary site architecture in content inventory for over 10k items in site redesign.<li></ul>
+		<p>Immigration and Customs Enforcement<br/><a href="http://www.ice.gov/detention-facilities" target="_blank">http://www.ice.gov</a></p>
+		<p>Aspects: <small><a href="http://www.ice.gov/contact/field-offices" target="_blank">mapping</a>, site building, deployment, theming, custom development</small></p>
+		
+        <br/>
+
+		<p>Food and Nutrition Services <br/> <a href="http://www.fns.usda.gov">http://www.fns.usda.gov</a></p>
+		<p>Aspects: <small>migration, site building, deployment, theming, custom development, multilingual</small></p>
+
+		<br/>
+		
+        <p>USDA What's Cooking<br/>
+            <a href="http://whatscooking.fns.usda.gov">http://whatscooking.fns.usda.gov</a></p>
+		<p>Aspects: <small>site building, deployment, theming, custom development, multilingual</small></p>
+
+
+
 	</section>
 
  @include('footer')
