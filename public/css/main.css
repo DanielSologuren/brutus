@@ -130,6 +130,15 @@ h1 {
   letter-spacing: 5px;
 }
 
+h2 {
+  color:#FFF;
+}
+
+h3 {
+  color:#FFF;
+}
+
+
 p {
   width: 90%;
   margin: 0 auto;
@@ -155,7 +164,7 @@ header {
   text-decoration: none;
   font-weight: 300;
   line-height: 55px;
-  padding: 0 18px;
+  padding: 0 7px;
   color: #fff;
   float: left;
   font-size: 25px;
