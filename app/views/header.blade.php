@@ -1,5 +1,5 @@
 <header>
-	<a href="#home" class="logo" data-scroll>Daniel Sologuren</a>
+	<a href="/" class="logo" data-scroll>Daniel Sologuren</a>
 		<nav class="nav-collapse">
 			<ul>
 				<li class="menu-item"><a href="/about" data-scroll>About</a></li>
