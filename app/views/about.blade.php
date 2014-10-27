@@ -22,8 +22,10 @@
   <br/ style="border-bottom:outset #FFF;">
       <h3>Personal</h3>
       <p>DC born. Maryland raised. Virginia living.</p>
+      <p>My kindle is attached to my face for months on end.</p>
       <p>I'm an avid swimmer who recently caught the triathlon bug.</p>
       <p>Doing an Ironman is next on my list!</p>
+
 
     </section>
 
