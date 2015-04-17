@@ -7,7 +7,7 @@
       <h1>ABOUT</h1>
 
       <h3>Professional</h3>
-      <p>Most of my work is in Drupal, but primary focus is on PHP.</p>
+      <p>Most of my work is in Drupal (last 5 years), but primary focus is on PHP.</p>
       <br/>
       <ul>
       	<li>Symfony, Laravel, Drupal CMS</li>
@@ -18,11 +18,10 @@
       </ul>
       <br/>
       <p>I'm crazy for all things opensource.</p>
-      <p>Currently not as active as I should be in Drupal community, but more things should come along with D8 in beta and Symfony.</p>
   <br/ style="border-bottom:outset #FFF;">
       <h3>Personal</h3>
-      <p>DC born. Maryland raised. Virginia living.</p>
-      <p>My kindle is attached to my face for months on end.</p>
+      <p>DC born. Maryland raised. DC living (full circle!).</p>
+      <p>Spent 4 years at Boston College learning stuff about physics.</p>
       <p>I'm an avid swimmer who recently caught the triathlon bug.</p>
       <p>Doing an Ironman is next on my list!</p>
 
