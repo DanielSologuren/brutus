@@ -6,7 +6,7 @@
 
 	<section id="work">
 		<h1>Work</h1>
-		<p>I work <a href="http://trellon.com">@Trellon</a></p>
+		<p>I work <a href="https://www.acquia.com/">@Acquia</a></p>
 		<p>doing cool things in Drupal.</p>
 		<p>I've also had the opportunity to work on some amazing projects in the ".gov" world.</p>
 		<p>Some cool things my team and I covered when building:</p>
