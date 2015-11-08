@@ -21,9 +21,7 @@
   <br/ style="border-bottom:outset #FFF;">
       <h3>Personal</h3>
       <p>DC born. Maryland raised. DC living (full circle!).</p>
-      <p>Spent 4 years at Boston College learning stuff about physics.</p>
-      <p>I'm an avid swimmer who recently caught the triathlon bug.</p>
-      <p>Doing an Ironman is next on my list!</p>
+      
 
 
     </section>
