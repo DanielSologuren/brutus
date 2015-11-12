@@ -32,8 +32,8 @@ a:hover {
 @-o-viewport { width: device-width; }
 @viewport { width: device-width; }
 
-html { 
-  background: url('../images/wood.jpg') no-repeat center center fixed; 
+html {
+  background: url('../images/stars.jpg') no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -144,11 +144,11 @@ a {
   text-decoration: none;
 }
 
-a:hover 
+a:hover
 {
-     color:#00A0C6; 
-     text-decoration:none; 
-     cursor:pointer;  
+     color:#00A0C6;
+     text-decoration:none;
+     cursor:pointer;
 }
 
 p {
